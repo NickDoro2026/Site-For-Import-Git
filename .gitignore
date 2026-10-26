@@ -1,0 +1,10 @@
+# Подкаталог tmp
+tmp/
+
+# Файлы, заканчивающиеся на _old и _backup
+*_old
+*_backup
+
+# Системные файлы
+Thumbs.db
+.DS_Store
